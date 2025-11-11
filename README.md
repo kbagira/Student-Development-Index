@@ -47,6 +47,3 @@ See [/docs](docs/) folder:
 
 
 
-## 📜 License
-
-MIT — optional, can be added later.
